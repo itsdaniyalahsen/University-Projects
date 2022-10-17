@@ -1,5 +1,7 @@
 # University-Projects
 
+A github repository for all my University Projects/Assignments.
+
 ## Project 1: House Application - C++
 
 Draws a house of base length, you have the ability to modify it to your will. This model has different fill in and border characters. The Model is a equilateral traingle with each side of length (base+2) atop a square of base length. My first university project.
